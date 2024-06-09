@@ -1,6 +1,6 @@
 module github.com/Dyandraamw/golang-practice
 
-go 1.21.11
+go 1.21.0
 
 require (
 	github.com/gofiber/fiber/v2 v2.52.4
